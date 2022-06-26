@@ -11,7 +11,7 @@
   "ps1_hostname": "localhost",
   "ps1_username": "user",
   "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "./public/resume/TARIQ AL-MALKI Resume.pdf",
+  "resume_url": "https://resume.tiiny.site",
   "colors": {
      "light": {
       "background": "#FFFFDB",
@@ -33,3 +33,4 @@
     }
   }
 }
+
